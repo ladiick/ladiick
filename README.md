@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="" 
-     data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=whitee" style="max-width: 100%;">
+     data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=whitee">
 
 <!--
 **ladiick/ladiick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
