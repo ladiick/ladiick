@@ -13,7 +13,7 @@
 - 📖 I’m currently learning **React**, **Redux**
 - 💻 I write code regularly
 - 📮 Reach me by [email](https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=GTvVlcSBmzjrHMpTPCZhWgqDJjNXsWHhgrnZcmPMfhJKJZnlGCgLtbmKvCwsxgMrLMxRXXGVgdLjz)
-- 🌎 My English level is bad, but I'm working hard at it
+- 🌎 My level of english is not very good, but I'm working hard at it
 
 
 ## Languages and Tools
