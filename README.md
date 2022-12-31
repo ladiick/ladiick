@@ -2,7 +2,7 @@
 
 <h1> Hi there, I'm Vladislav </h1>
 
-<p> Beginner front-end developer from Russia </p>
+<h2> Beginner front-end developer from Russia </h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vla_diiick)
 </div>
